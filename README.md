@@ -1,1 +1,1 @@
-my first readme
+js was deleted, alx file was edited
